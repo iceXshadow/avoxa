@@ -47,8 +47,8 @@ LANGBASE_API_KEY=your_langbase_api_key_here
 Run the following scripts to set up your memory and agent:
 
 ```sh
-npx ts-node create-memory.ts
-npx ts-node create-pipe.ts
+npx tsx create-memory.ts
+npx tsx create-pipe.ts
 ```
 
 ### 4. Upload Documents
@@ -56,7 +56,7 @@ npx ts-node create-pipe.ts
 Upload your knowledge base documents:
 
 ```sh
-npx ts-node upload-docs.ts
+npx tsx upload-docs.ts
 ```
 
 ### 5. Run the Main Application
@@ -64,7 +64,7 @@ npx ts-node upload-docs.ts
 Test the agent with a sample query:
 
 ```sh
-npx ts-node index.ts
+npx tsx index.ts
 ```
 
 ## Example Usage
