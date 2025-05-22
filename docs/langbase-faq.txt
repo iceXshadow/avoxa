@@ -1,0 +1,68 @@
+export const sections = [
+	{ title: 'Guides', id: 'guides' },
+	{ title: 'Resources', id: 'resources' }
+];
+
+    
+
+Langbase Docs
+
+### Langbase is the most powerful serverless AI cloud for building and deploying AI agents.
+
+Build, deploy, and scale serverless AI agents with tools and memory (RAG). Simple AI primitives no bloated frameworks, all with a world-class developer experience without using any frameworks.
+
+<strong>CHAI.new — vibe code ai agents.can build agents for you, literally vibe code any ai agent
+
+---
+
+---
+
+## Why Langbase?
+
+Langbase is the best way to build and deploy AI agents.
+
+Our mission: AI for all. Not just ML wizards. Every. Single. Developer.
+
+**Build AI agents without any bloated frameworks**. You write the logic, we handle the logistics.
+
+Compared to complex AI frameworks, Langbase is serverless and [the first composable AI platform][composable].
+
+1. Start by building simple [AI agents (pipes)](/pipe)
+2. Then train serverless semantic [Memory agents (RAG)](/memory) to get accurate and trusted results
+
+Get started for free:
+
+- [CHAI.new](https://chai.new): Vibe code any AI agent. Chai turns prompts into prod-ready agents.
+- [AI Studio][studio]: Build, collaborate, and deploy AI Agents with tools and Memory (RAG).
+- [Langbase SDK][sdk]: Easiest wasy to build AI Agents with TypeScript. (recommended)
+- [HTTP API][api]: Build AI agents with any language (Python, Go, PHP, etc.).
+
+---
+
+<Note sub="Join today">
+
+**Langbase is free for anyone to [get started][signup]**.
+We process billions of AI messages tokens daily, used by thousands of developers. [Tweet][x] us — what will you ship with Langbase?
+It all [started][start] with a developer thinking … GPT is amazing, I want it everywhere, that's what ⌘ Langbase does for me.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+[pipe]: /pipe
+[memory]: /memory
+[studio]: https://studio.langbase.com
+[composable]: /composable-ai
+[start]: https://langbase.fyi/starting-langbase
+[signup]: https://langbase.fyi/awesome
+[x]: https://twitter.com/LangbaseInc
+[li]: https://www.linkedin.com/company/langbase/
+[email]: mailto:support@langbase.com?subject=Pipe-Quickstart&body=Ref:%20https://langbase.com/docs/pipe/quickstart
+[api]: /api-reference
+[sdk]: /sdk

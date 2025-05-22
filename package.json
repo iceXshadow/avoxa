@@ -1,0 +1,23 @@
+{
+	"name": "avoxa",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"format": "prettier --write ."
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"dependencies": {
+		"dotenv": "^16.5.0",
+		"langbase": "^1.1.59"
+	},
+	"devDependencies": {
+		"prettier": "^3.5.3",
+		"prettier-plugin-organize-imports": "^4.1.0",
+		"prettier-plugin-tailwindcss": "^0.6.11"
+	}
+}
